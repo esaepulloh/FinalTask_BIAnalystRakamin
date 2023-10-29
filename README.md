@@ -1,4 +1,4 @@
-# Business Intelligence Analyst Project Based Internship Program held by Bank Muamalat and Rakamin Academy
+# Business Intelligence Analyst Project Based Internship Program Rakamin AcademyXBank Muamalat
 
 ## Overview
 
@@ -18,6 +18,6 @@ You can access the interactive dashboard through Looker Studio:
 
 To get a more in-depth understanding of the project and its findings, please refer to the following video presentations:
 
-[Access the video presentation](https://)
+[Access the video presentation](https://drive.google.com/file/d/1lkW9o_1-fc5mZI-A5QyOX03b6m43HWpS/view)
 
 ---
